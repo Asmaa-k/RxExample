@@ -1,2 +1,2 @@
 # RxExample
- some rx examples for learning perpose (create, range, repeat , just ThrottleFirst, debounce, buffer, map, flatMap, fromItratable)
+## some rx examples for learning perpose (create, range, repeat , just, throttleFirst, debounce, buffer, map, flatMap, fromItratable)
